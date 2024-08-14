@@ -1,1 +1,6 @@
 # CodeAlpha_FrontEndDevelopment_ImageGallery
+This project is a simple and responsive image gallery created using HTML, CSS, and JavaScript. The gallery is designed to showcase a collection of images in a visually appealing layout that automatically adapts to different screen sizes, ensuring a seamless experience whether you're viewing it on a desktop, tablet, or mobile device. The gallery includes an interactive user interface where users can click on images to view them in a larger size, with smooth transitions between images.
+
+The codebase is clean and well-structured, making it easy to customize the gallery's appearance and functionality to suit your needs. To get started, clone the repository, navigate to the project directory, and open the index.html file in your web browser. You can easily replace the images and adjust the styling by editing the relevant HTML, CSS, and JavaScript files.
+
+If you'd like to contribute to this project, feel free to submit issues or pull requests. Contributions of any kind are welcome, whether it's fixing bugs, adding new features, or improving the documentation. This project is licensed under the MIT License, so you are free to use, modify, and distribute it as you see fit.
